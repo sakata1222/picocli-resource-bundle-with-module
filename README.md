@@ -1,0 +1,1 @@
+# picocli-resource-bundle-with-module
